@@ -186,6 +186,9 @@
     <EmbeddedResource Include="FrmUtamaAdmin.resx">
       <DependentUpon>FrmUtamaAdmin.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmUtamaOwner.resx">
+      <DependentUpon>FrmUtamaOwner.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>

@@ -1432,5 +1432,7 @@ Public Class FrmUtamaAdmin
 
     End Sub
 
+    Private Sub lblJudul_Click(sender As Object, e As EventArgs) Handles lblJudul.Click
 
+    End Sub
 End Class
